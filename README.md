@@ -1,4 +1,7 @@
-# Bayesian Comparison of Explicit and Implicit Causal Inference Strategies in Multisensory Heading Perception
+# Bayesian Comparison of Explicit and Implicit Causal Inference Strategies in Multisensory Heading Perception (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/lacerbi/visvest-causinf for possible updates.
+
 
 This repository accompanies the manuscript by Acerbi et al. (2018), published in *PLoS Computational Biology* [[1](https://github.com/lacerbi/visvest-causinf/blob/master/README.md#reference)].
 It includes human subjects' data and the code used for fitting and comparing the models reported in the paper.
